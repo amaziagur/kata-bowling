@@ -1,2 +1,2 @@
-# kata-stack
-kata-stack practice
+# kata-bowling
+kata-bowling practice
